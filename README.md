@@ -40,6 +40,6 @@ Results:
 Various machine learning models were evaluated using standard classification metrics. Random Forest and MLP classifiers achieved the highest accuracy in the tests.
 
 👩‍💻 Authors
-Shaik Asma
-Aluganti Supriya
+Shaik Asma__
+Aluganti Supriya__
 Pabboju Anjali
